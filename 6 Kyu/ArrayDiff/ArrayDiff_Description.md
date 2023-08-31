@@ -10,4 +10,4 @@ If a value is present in **b**, all of its occurrences must be removed from the 
 
 **Kata.arrayDiff(new int[] {1, 2, 2, 2, 3}, new int[] {2}) => new int[] {1, 3}**
 
-Fuente: https://www.codewars.com/kata/523f5d21c841566fde000009
+Source: https://www.codewars.com/kata/523f5d21c841566fde000009

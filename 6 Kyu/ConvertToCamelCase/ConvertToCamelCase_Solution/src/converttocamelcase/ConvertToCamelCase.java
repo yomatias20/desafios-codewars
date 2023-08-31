@@ -6,7 +6,9 @@ class ConvertToCamelCase {
     public static void main(String[] args) {
         String cadena = "Vamos_a_ver_si_esto_funciona"; // try other values
         String result = toCamelCase(cadena);
-        System.out.println(result);
+        System.out.println("Cadena original: " + cadena);
+        System.out.println("Resultado: " + result);
+        System.out.println("");
     }
     
     static String toCamelCase(String s) {

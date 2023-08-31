@@ -1,4 +1,22 @@
 # desafios-codewars
+Mi solución a diferentes Katas de codewars.com.
+
+Languaje: **JAVA**
+
+El ranking se utiliza para indicar el nivel de conocimientos o habilidad de los usuarios y la dificultad de los Kata. Hay dos clases de niveles, **Kyu** y **Dan**, que se dividen en 8 subniveles cada uno. Por orden creciente de habilidad / dificultad:
+
+**8 Kyu** a **1 Kyu**
+
+**1 Dan** a **8 Dan**
+
+Dentro de cada carpeta de nivel, encontrarás los Kata que he resuelto.
+
+Dentro de cada carpeta de Kata, hay una descripción del Kata (las instrucciones) y mi solución.
+
+Nota: la mayoría de las veces, los Kata piden solo una función. Pero además, siempre incluyo el método **main**, para que sea posible ejecutar todo el proyecto. Obviamente, en el método **main** puedes modificar los valores de los parámetros.
+
+-------------------------
+
 My solution to different Katas from codewars.com.
 
 Language: **JAVA**
